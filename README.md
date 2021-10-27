@@ -1,10 +1,8 @@
 # js-curso-em-video
 
-## Projetos em HTML, CSS e Js feitos durante o curso de JavaScript do CursoemVideo.
-
 ### Analisador de números
 - Faz uma lista com números adicionados pelo usuário;
-- Informa menor e maior valor, soma e média dos valores informados.
+- Informa menor e maior valor, soma e média.
 
 ### Hora do dia
 - Obtém o horário local do computador e mostra as horas na tela;
@@ -18,4 +16,4 @@
 - Faz o cálculo da tabuada de um valor inserido pelo usuário.
 
 ### Vamos contar
-- Conta até um determinado valor por um certo intervalo, ambos escolhidos pelo usuário.
+- Conta até o valor informado, podendo a contagem ser feita em intervalos diferentes (2 em 2, 5 em 5, etc).
