@@ -1,6 +1,6 @@
 # js-curso-em-video
 
-Projetos em HTML, CSS e Js feitos durante o curso de JavaScript do CursoemVideo.
+## Projetos em HTML, CSS e Js feitos durante o curso de JavaScript do CursoemVideo.
 
 ### Analisador de números
 - Faz uma lista com números adicionados pelo usuário;
@@ -14,8 +14,8 @@ Projetos em HTML, CSS e Js feitos durante o curso de JavaScript do CursoemVideo.
 - Faz o cálculo de idade baseado no ano de nascimento;
 - Mostra imagens diferentes para sexo e faixa de idade.
 
-###Tabuada
+### Tabuada
 - Faz o cálculo da tabuada de um valor inserido pelo usuário.
 
-###Vamos contar
+### Vamos contar
 - Conta até um determinado valor por um certo intervalo, ambos escolhidos pelo usuário.
